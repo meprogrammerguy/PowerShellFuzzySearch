@@ -1,4 +1,4 @@
-. .\Select-FuzzyString.ps1
+#. .\Select-FuzzyString.ps1
 
 'Select-FuzzyString pia'
 .\countries.ps1 | Select-FuzzyString pia
